@@ -16,6 +16,7 @@ Finished.
 ## Example
 
 | Subscription | Price | Billing Cycle | Next Renewal |
+|---|---:|---|---|
 | Music Plan | $12.00 | Monthly | 2027-06-10 |
 | Cloud Storage | $60.00 | Yearly | 2027-07-15 |
 
